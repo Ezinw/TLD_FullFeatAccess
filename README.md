@@ -7,7 +7,7 @@ Untested mod. USE AT YOUR OWN RISK!
 
 - Enabling the DarkWalker feat will also auto-complete the 'Escape The DarkWalker' challenge to prevent odd behavior.
 
-- Adjust feat requirements and benifts that a feat provides (available for most feats).
+- Adjust feat requirements and the benefts that feats provide (available for most feats).
 
 [Download](https://github.com/Ezinw/TLD_FullFeatAccess/releases/tag/v1.0.0)
 
